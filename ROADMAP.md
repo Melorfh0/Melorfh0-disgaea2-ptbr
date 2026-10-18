@@ -7,13 +7,15 @@
 - Tradução das abreviações dos meses no executável do clone.
 - Primeira abertura legendada em português, com o áudio japonês preservado; confirmada pelo usuário em reprodução em tela cheia.
 - Preservação dos arquivos originais e da instalação oficial. Os testes foram feitos no clone.
+- Publicação da documentação, glossário e ferramentas próprias no repositório público, sem arquivos do jogo.
+- Licença MIT definida somente para as três ferramentas próprias.
 
 ## Em andamento / próximo passo
 
 - Criar um patch-only que valide a versão da instalação-base e aplique as alterações numa pasta de teste do jogador.
 - Reproduzir o patch a partir de uma instalação limpa e validar hashes antes e depois.
 - Confirmar visualmente as descrições de habilidades na tela correspondente; o carregamento da campanha com o candidato ativo não verificou cada descrição.
-- Definir a licença do código do projeto e anexar o patch somente depois de revisar direitos e conteúdo.
+- Revisar direitos e conteúdo do patch antes de distribuí-lo.
 
 ## Ainda planejado
 

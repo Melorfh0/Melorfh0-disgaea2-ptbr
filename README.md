@@ -57,5 +57,5 @@ Não anexe executáveis, vídeos, arquivos `.DAT`, saves ou outros arquivos extr
 
 ## Licença e direitos
 
-O arquivo [`LICENSE`](LICENSE) aplica a licença MIT somente às três ferramentas próprias listadas nele. Ela não cobre arquivos do jogo nem materiais de tradução. O conteúdo atual é um rascunho de documentação e ferramentas; ainda não publica o patch nem os arquivos de tradução do jogo.
+O arquivo [`LICENSE`](LICENSE) aplica a licença MIT somente às três ferramentas próprias listadas nele. Ela não cobre arquivos do jogo nem materiais de tradução. O repositório publica documentação e ferramentas, mas ainda não oferece um patch instalável nem os arquivos de tradução do jogo.
 
