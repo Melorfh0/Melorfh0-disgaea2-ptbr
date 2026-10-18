@@ -43,7 +43,7 @@ As decisões de nomes, termos e estilo ficam em [`GLOSSARIO.md`](GLOSSARIO.md). 
 
 ## Como participar
 
-Entre no [servidor do Discord](https://discord.com/invite/XsCrHtVHFp) para acompanhar os testes e combinar a participação. Os relatos poderão ser enviados pelas [Issues](https://github.com/Melorfh0/Melorfh0-disgaea2-ptbr/issues/new/choose) ou pelo Discord.
+Entre no [servidor do Discord](https://discord.com/invite/XsCrHtVHFp) para acompanhar os testes e combinar a participação. Os relatos poderão ser enviados pelas [Issues](https://github.com/Melorfh0/Melorfh0-disgaea2-ptbr/issues/new/choose) Discord e email.
 
 Antes de abrir um relato, inclua:
 
@@ -58,4 +58,7 @@ Não anexe executáveis, vídeos, arquivos `.DAT`, saves ou outros arquivos extr
 ## Licença e direitos
 
 O arquivo [`LICENSE`](LICENSE) aplica a licença MIT somente às três ferramentas próprias listadas nele. Ela não cobre arquivos do jogo nem materiais de tradução. O repositório publica documentação e ferramentas, mas ainda não oferece um patch instalável nem os arquivos de tradução do jogo.
+
+Toda ajuda é bem vinda, entao entre no discord para baixar o teste da tradução e ajudar a melhorar ela
+Ajuda monetaria tbm e bem vinda skksks meu pix: melorfhti@gmail.com
 
