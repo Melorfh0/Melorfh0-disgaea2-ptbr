@@ -1,0 +1,25 @@
+# Game assets and local copies: never publish these
+*.DAT
+*.dat
+*.OGM
+*.ogm
+*.OGV
+*.ogv
+*.EXE
+*.exe
+*.DLL
+*.dll
+*.ZIP
+*.zip
+SAVEDATA/
+work/game_probe/
+work/
+outputs/
+outputs/versao_final_por_hora_*/
+
+# Local analysis data
+inputs/
+analysis/
+__pycache__/
+*.py[cod]
+
