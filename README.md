@@ -59,6 +59,6 @@ Não anexe executáveis, vídeos, arquivos `.DAT`, saves ou outros arquivos extr
 
 O arquivo [`LICENSE`](LICENSE) aplica a licença MIT somente às três ferramentas próprias listadas nele. Ela não cobre arquivos do jogo nem materiais de tradução. O repositório publica documentação e ferramentas, mas ainda não oferece um patch instalável nem os arquivos de tradução do jogo.
 
-Toda ajuda é bem vinda, entao entre no discord para baixar o teste da tradução e ajudar a melhorar ela
+Toda ajuda é bem vinda, entao entre no discord para baixar o teste da tradução e ajudar a melhorar ela.
 Ajuda monetaria tbm e bem vinda skksks meu pix: melorfhti@gmail.com
 
