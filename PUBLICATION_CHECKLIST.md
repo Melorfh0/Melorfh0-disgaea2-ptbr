@@ -1,4 +1,4 @@
-# Antes de publicar
+# Próximas etapas antes da release
 
 - [x] Inserir o convite do Discord: https://discord.com/invite/XsCrHtVHFp
 - [x] Usar o repositório criado: `Melorfh0/Melorfh0-disgaea2-ptbr`.
